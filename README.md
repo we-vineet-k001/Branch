@@ -1,3 +1,2 @@
 # Branch
-
-for run server use `php artisan serve `
+New file
